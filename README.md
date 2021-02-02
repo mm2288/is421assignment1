@@ -7,4 +7,4 @@ Assignment 1:
 - Closes terminal when ESC key is pressed
 
 ![is421console](/assignment1console.png?raw=true "Assignment 1 Console Output")
-![is421output](/assignment1output?raw=true "Assignment 1 Output")
+![is421output](/assignment1output.png?raw=true "Assignment 1 Output")
